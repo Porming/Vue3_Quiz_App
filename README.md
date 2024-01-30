@@ -9,5 +9,10 @@ This Quiz App integrate with the Open Trivia DB API that manipulate the retrieva
 * Tailwind CSS
 * [Open Trivia DB API](https://opentdb.com/api_config.php)
 
+# Quiz App Overview
 
-
+<p align="center">
+  <img src="./public/QuizApp.png" alt="Quiz App" width="738">
+  <img src="./public/quiz.png" alt="Quiz App" width="738">
+  <img src="./public/result.png" alt="Quiz App" width="738">
+</p>

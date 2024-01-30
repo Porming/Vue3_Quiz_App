@@ -36,12 +36,12 @@ const quizzesCover = <QuizCover[]>[
   },
 ];
 
-const beforeEnter = (el) => {
+const beforeEnter = (el: any) => {
   el.style.opacity = 0;
   el.style.transform = 'translateY(-50px)';
 };
 
-const enter = (el) => {
+const enter = (el: any) => {
   gsap.to(el, {
     y: 0,
     opacity: 1,
